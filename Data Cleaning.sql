@@ -86,7 +86,7 @@ Update Housing.dbo.DataCleaning
 SET OwnerSplitState = PARSENAME(REPLACE(OwnerAddress, ',', '.'), 1)
 
 
--- Change 1 and 0 to Yes and No In "Sold as vacant" field
+-- Change Y and N to Yes and No In "Sold as vacant" field
 
 Select Distinct(SoldAsVacant), COUNT(SoldAsVacant)
 From Housing.dbo.DataCleaning
