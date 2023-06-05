@@ -30,7 +30,7 @@ join Housing.dbo.DataCleaning change
 	on inspect.Parcelid= change.Parcelid
 	and inspect.[UniqueId] <> change.[UniqueId]
 
-	-- Breaking out Adress into Individual Columns (address, City, State)
+	-- Breaking out Address into Individual Columns (address, City, State)
 
 SELECT PropertyAddress
 From Housing.dbo.DataCleaning
