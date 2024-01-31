@@ -4,7 +4,7 @@ This Tableau dashboard project draws inspiration from the insightful YouTube tut
 
 ## Dashboard Preview
 
-[View Dashboard](./Data-Analytics/Dashboards/Airbnb2016Dashboard/Airbnb2016FullProject.twbx)
+[View Dashboard](https://public.tableau.com/app/profile/zack.mason/viz/AirBnB2016Fullproject_16854927434430/Dashboard1?publish=yes)
 
 ## Usage
 
