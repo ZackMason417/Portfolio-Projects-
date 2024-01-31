@@ -4,17 +4,17 @@ Welcome to my portfolio repository! Here, you'll find a collection of projects s
 
 Table of Contents
 - [Python Projects](./Python)
-  - [Auto API Pull](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/CryptoMarketAutoPull)
-  - [AutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/FileTypeAutoSorter)
-  - [BMI Calculator](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/BMI-Calculator)
+  - [PY-CryptoMarketAutoPull](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/CryptoMarketAutoPull) - Automated data retrieval from a cryptocurrency market API.
+  - [PY-FileTypeAutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/FileTypeAutoSorter) - Python script for sorting files based on their types.
+  - [PY-BMICalculator](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/BMI-Calculator) - BMI calculator application in Python.
 - [Data Analytics Projects](./Data-Analytics)
-  - [AirBnB 2016 Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/Airbnb2016Dashboard)
-  - [Bike Sales Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/BikeRentAnalysisDashboard)
-  - [CareerInsightsBI](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/CareerInsightsBI)
-  - [Housing Machine Learning](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/HousingPricePredictionML)
-  - [Kaggle Housing Prices ML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/KaggleHousingPricesML)
-  - [Housing Data Cleaning SQL](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/HousingDataCleaningSQL)
-  - [COVID Data Exploration SQL](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/NZCovidDataExplorationSQL)
+  - [TAB-AirBnB 2016 Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/Airbnb2016Dashboard) - Tableau dashboard using 2016 Airbnb data.
+  - [XL-Bike Sales Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/BikeRentAnalysisDashboard) - Excel dashboard analyzing bike sales data.
+  - [BI-CareerInsights](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/CareerInsightsBI) - Business Intelligence project exploring career insights.
+  - [PY-HousingML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/HousingPricePredictionML) - Machine learning project predicting housing prices.
+  - [PY-KaggleHousingPricesML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/KaggleHousingPricesML) - Kaggle machine learning project on housing prices.
+  - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/HousingDataCleaningSQL) - Data cleaning project using SQL.
+  - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/NZCovidDataExplorationSQL) - Exploration of COVID data for New Zealand using SQL.
 
 
 ## About Me
