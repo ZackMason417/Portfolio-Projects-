@@ -16,7 +16,7 @@ Table of Contents
   - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/HousingDataCleaningSQL) - Data cleaning project using SQL.
   - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/NZCovidDataExplorationSQL) - Exploration of COVID data for New Zealand using SQL.
 
-Technical Skills
+###Technical Skills
 
 Languages:
 Python
@@ -32,7 +32,7 @@ Matplotlib
 Database Management:
 MySQL
 
-Data Visualization and Business Intelligence
+##Data Visualization and Business Intelligence
 
 Data Visualization:
 Matplotlib
@@ -40,7 +40,7 @@ Matplotlib
 Business Intelligence:
 Microsoft Power BI
 
-Non-Coding Skills
+###Non-Coding Skills
 
 Microsoft Office Suite:
 Word
