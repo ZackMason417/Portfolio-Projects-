@@ -2,13 +2,11 @@
 
 Welcome to my portfolio repository! Here, you'll find a collection of projects showcasing my skills and experiences in various domains.
 
-## Table of Contents
-
+Table of Contents
 - [Python Projects](./Python)
   - [Auto API Pull](./Python/Auto%20API%20Pull.ipynb)
   - [AutoSorter](./Python/AutoSorter.ipynb)
   - [BMI Calculator](./Python/BMICalculator.ipynb)
-
 - [Data Analytics Projects](./Data-Analytics)
   - [AirBnB 2016 Dashboard](./Data-Analytics/Dashboards/AirBnB%202016%20Full%20project.twbx)
   - [Bike Sales Dashboard](./Data-Analytics/Dashboards/Bike%20Sales%20Dashbord.xlsx)
@@ -18,6 +16,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of projects s
   - [Housing Data Cleaning SQL](./Data-Analytics/SQL/Data%20Cleaning.sql)
   - [COVID Data Exploration SQL](./Data-Analytics/SQL/Covid%20Exploration.sql)
 
+
 ## About Me
 
 I am a passionate data professional with experience in data analytics, machine learning, and SQL. These projects reflect my commitment to continuous learning and application of data science techniques.
@@ -26,9 +25,6 @@ I am a passionate data professional with experience in data analytics, machine l
 
 Feel free to explore the projects and reach out if you have any questions, suggestions, or collaboration ideas. I'm open to feedback and always looking for opportunities to learn and grow.
 
-## Contact Information
-
+Contact Information
 - Email: zackmason417@gmail.com
-- LinkedIn: [Zack Mason](https://www.linkedin.com/in/zack-mason-8a901828b/)
-- 
-
+- LinkedIn: [Zack Mason](https://www.linkedin.com/in/zackmason417/)
