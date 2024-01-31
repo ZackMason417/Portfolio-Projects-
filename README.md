@@ -4,17 +4,17 @@ Welcome to my portfolio repository! Here, you'll find a collection of projects s
 
 Table of Contents
 - [Python Projects](./Python)
-  - [Auto API Pull](./Python/Auto%20API%20Pull.ipynb)
-  - [AutoSorter](./Python/AutoSorter.ipynb)
-  - [BMI Calculator](./Python/BMICalculator.ipynb)
+  - [Auto API Pull](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/CryptoMarketAutoPull)
+  - [AutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/FileTypeAutoSorter)
+  - [BMI Calculator](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/BMI-Calculator)
 - [Data Analytics Projects](./Data-Analytics)
-  - [AirBnB 2016 Dashboard](./Data-Analytics/Dashboards/AirBnB%202016%20Full%20project.twbx)
-  - [Bike Sales Dashboard](./Data-Analytics/Dashboards/Bike%20Sales%20Dashbord.xlsx)
-  - [Power BI Project](./Data-Analytics/SQL/Power%20BI%20Project.pbix)
-  - [Housing Machine Learning](./Data-Analytics/Machine-Learning/Housing%20Machine%20Learning%20Project.ipynb)
-  - [Kaggle Housing Prices ML](./Data-Analytics/Machine-Learning/Housing%20Prices%20Machine%20Learning%20Competition.ipynb)
-  - [Housing Data Cleaning SQL](./Data-Analytics/SQL/Data%20Cleaning.sql)
-  - [COVID Data Exploration SQL](./Data-Analytics/SQL/Covid%20Exploration.sql)
+  - [AirBnB 2016 Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/Airbnb2016Dashboard)
+  - [Bike Sales Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/BikeRentAnalysisDashboard)
+  - [CareerInsightsBI](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/CareerInsightsBI)
+  - [Housing Machine Learning](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/HousingPricePredictionML)
+  - [Kaggle Housing Prices ML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/KaggleHousingPricesML)
+  - [Housing Data Cleaning SQL](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/HousingDataCleaningSQL)
+  - [COVID Data Exploration SQL](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/NZCovidDataExplorationSQL)
 
 
 ## About Me
