@@ -23,4 +23,6 @@ Table of Contents
   - [PY-KaggleHousingPricesML](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Machine-Learning/Kaggle%20Housing%20Comp) - Kaggle machine learning project on housing prices.
   - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Housing%20Cleaning) - Data cleaning project using SQL.
   - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Covid%20Explore) - Exploration of COVID data for New Zealand using SQL.
-
+- [Case Studies](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Case%20Studies)
+  - [PDF-Network Assessment Report](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Case%20Studies/Network%20Assessment%20Report.pdf) - A detailed analysis of the home network setup, including router placement, connected devices, Wi-Fi coverage, and signal strength.
+  - [PDF-Troubleshooting Guide for Common Issues](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Case%20Studies/Troubleshooting%20Guide%20for%20Common%20Issues.pdf) - A comprehensive guide outlining step-by-step solutions to common network problems encountered in a home environment.
