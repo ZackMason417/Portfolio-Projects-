@@ -1,6 +1,13 @@
 # Portfolio Projects
+Welcome to my portfolio repository! Here, you'll find a collection of projects showcasing my skills and experiences in various domains. Feel free to explore the projects, check out my website, and learn more about my skills.
 
-Welcome to my portfolio repository! Here, you'll find a collection of projects showcasing my skills and experiences in various domains.
+# Overview
+I'm Zack Mason, a tech enthusiast with a passion for exploring diverse domains within the IT industry. I'm committed to continuous learning and skill development to pursue opportunities across various roles in IT.
+
+Contact Information
+- Email: zackmason417@gmail.com
+- LinkedIn: [Zack Mason](https://www.linkedin.com/in/zack-mason-8a901828b/)
+- Website: https://zackmason417.github.io/
 
 Table of Contents
 - [Python Projects](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts)
@@ -17,49 +24,3 @@ Table of Contents
   - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Housing%20Cleaning) - Data cleaning project using SQL.
   - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Covid%20Explore) - Exploration of COVID data for New Zealand using SQL.
 
-## Technical Skills
-
-Languages:
-Python
-SQL
-HTML
-CSS
-
-Data Science and Analysis:
-Pandas
-Matplotlib
-
-
-Database Management:
-MySQL
-
-## Data Visualization and Business Intelligence
-
-Data Visualization:
-Matplotlib
-
-Business Intelligence:
-Microsoft Power BI
-
-## Non-Coding Skills
-
-Microsoft Office Suite:
-Word
-Excel
-PowerPoint
-
-Database Management:
-MySQL
-
-## About Me
-
-I am a passionate data professional with experience in data analytics, machine learning, and SQL. These projects reflect my commitment to continuous learning and application of data science techniques.
-
-## Usage Guidelines
-
-Feel free to explore the projects and reach out if you have any questions, suggestions, or collaboration ideas. I'm open to feedback and always looking for opportunities to learn and grow.
-
-Contact Information
-- Email: zackmason417@gmail.com
-- LinkedIn: [Zack Mason](https://www.linkedin.com/in/zack-mason-8a901828b/)
-- Website: https://zackmason417.github.io/
