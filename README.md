@@ -4,17 +4,18 @@ Welcome to my portfolio repository! Here, you'll find a collection of projects s
 
 Table of Contents
 - [Python Projects](./Python)
-  - [PY-CryptoMarketAutoPull](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/CryptoMarketAutoPull) - Automated data retrieval from a cryptocurrency market API.
-  - [PY-FileTypeAutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/FileTypeAutoSorter) - Python script for sorting files based on their types.
-  - [PY-BMICalculator](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Python/BMI-Calculator) - BMI calculator application in Python.
+- [PY-ArduinoWeatherStation](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/Arduino%20Weather%20Station) - Python script to retrieve weather data from Arduino with integrated DHT and BMP280 sensors.
+  - [PY-CryptoMarketAutoPull](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/CryptoMarketAutoPull) - Automated data retrieval from a cryptocurrency market API.
+  - [PY-FileTypeAutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/FileTypeAutoSorter) - Python script for sorting files based on their types.
+  - [PY-BMICalculator](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/BMI%20Calculator) - BMI calculator application in Python.
 - [Data Analytics Projects](./Data-Analytics)
-  - [TAB-AirBnB 2016 Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/Airbnb2016Dashboard) - Tableau dashboard using 2016 Airbnb data.
-  - [XL-Bike Sales Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/BikeRentAnalysisDashboard) - Excel dashboard analyzing bike sales data.
-  - [BI-CareerInsights](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Dashboards/CareerInsightsBI) - Business Intelligence project exploring career insights.
-  - [PY-HousingML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/HousingPricePredictionML) - Machine learning project predicting housing prices.
-  - [PY-KaggleHousingPricesML](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/Machine-Learning/KaggleHousingPricesML) - Kaggle machine learning project on housing prices.
-  - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/HousingDataCleaningSQL) - Data cleaning project using SQL.
-  - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/blob/main/Data-Analytics/SQL/NZCovidDataExplorationSQL) - Exploration of COVID data for New Zealand using SQL.
+  - [TAB-AirBnB 2016 Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Dashboards/Airbnb%20Dashboard%20Tab) - Tableau dashboard using 2016 Airbnb data.
+  - [XL-Bike Sales Dashboard](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Dashboards/BikerRent%20Dashboard%20Excel) - Excel dashboard analyzing bike sales data.
+  - [BI-CareerInsights](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Dashboards/CarrerInsights%20BI) - Business Intelligence project exploring career insights.
+  - [PY-HousingML](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Machine-Learning/HousingPrediction) - Machine learning project predicting housing prices.
+  - [PY-KaggleHousingPricesML](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/Machine-Learning/Kaggle%20Housing%20Comp) - Kaggle machine learning project on housing prices.
+  - [SQL-HousingDataCleaning](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Housing%20Cleaning) - Data cleaning project using SQL.
+  - [SQL-COVIDDataExploration](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Data%20Analytics/SQL/Covid%20Explore) - Exploration of COVID data for New Zealand using SQL.
 
 ## Technical Skills
 
