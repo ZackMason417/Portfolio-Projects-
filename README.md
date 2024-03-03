@@ -3,7 +3,7 @@
 Welcome to my portfolio repository! Here, you'll find a collection of projects showcasing my skills and experiences in various domains.
 
 Table of Contents
-- [Python Projects]([./Python](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts)
+- [Python Projects](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts)
   - [PY-ArduinoWeatherStation](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/Arduino%20Weather%20Station) - Python script to retrieve weather data from Arduino with integrated DHT and BMP280 sensors.
   - [PY-CryptoMarketAutoPull](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/CryptoMarketAutoPull) - Automated data retrieval from a cryptocurrency market API.
   - [PY-FileTypeAutoSorter](https://github.com/ZackMason417/Portfolio-Projects-/tree/main/Python%20Scripts/FileTypeAutoSorter) - Python script for sorting files based on their types.
