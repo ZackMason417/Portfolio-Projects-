@@ -2,6 +2,10 @@
 
 Welcome to the PY-HousingML project! This project is inspired by the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. It involves predicting housing prices using Python and various machine learning algorithms.
 
+## Overview
+
+This repository contains a collection of Python scripts for fetching, analyzing, and modeling housing data. The project focuses on using machine learning techniques to predict housing prices based on various features such as median income, location, and housing characteristics.
+
 ## Project Structure
 
 1. **Fetch Housing Data**
@@ -21,36 +25,55 @@ Welcome to the PY-HousingML project! This project is inspired by the book "Hands
 4. **Train-Test Split**
    - Splits the dataset into training and testing sets.
 
-5. **Additional Functions**
-   - Functions for splitting the data based on an identifier.
+5. **Feature Engineering**
+   - Calculates additional features such as rooms per household and bedrooms per room.
+   - Handles missing values using `SimpleImputer`.
+
+6. **Machine Learning Models**
+   - Implements various regression models:
+     - Linear Regression
+     - Decision Tree Regression
+     - Random Forest Regression
+
+7. **Model Evaluation**
+   - Uses cross-validation to evaluate model performance.
+   - Calculates root mean squared error (RMSE) for model evaluation.
 
 ## Techniques Used
 - Data fetching with `urllib` and `tarfile`.
 - Data manipulation and analysis with `pandas`.
 - Exploratory Data Analysis (EDA) using descriptive statistics and visualization.
+- Feature engineering to create new attributes for analysis.
 - Train-Test Split using custom functions.
-- Machine learning algorithms: Linear Regression, Decision Tree, Random Forest.
+- Implementation and evaluation of machine learning regression models.
 
-## Challenges Faced
-- Ensuring the dataset is correctly downloaded and extracted.
-- Handling missing values in the dataset during analysis.
-- Creating a reliable train-test split for machine learning model evaluation.
+## How to Use
 
-## Outcomes
-- Successful fetching and loading of the housing dataset.
-- Clear understanding of the dataset's structure and attributes.
-- Creation of training and testing sets for future model development.
-- Implementation and evaluation of machine learning models for housing price prediction.
-
-## Usage
-1. Clone the repository:
+1. **Clone the Repository**
+   ```bash
    git clone https://github.com/your_username/PY-HousingML.git
 Navigate to the project directory:
 
+bash
 cd PY-HousingML
-Run the housing_ml.py script:
+Install Dependencies
 
+bash
+pip install -r requirements.txt
+Run the Scripts
+
+Run the housing_ml.py script to execute the project:
+bash
 python housing_ml.py
+View Results
+
+Check the terminal for model predictions and evaluation metrics.
+Project Outcome
+Successful fetching and loading of the housing dataset.
+Clear understanding of the dataset's structure and attributes.
+Creation of training and testing sets for model development.
+Implementation and evaluation of machine learning models.
+Model predictions and evaluation metrics displayed in the terminal.
 Dependencies
 Python 3.x
 NumPy
