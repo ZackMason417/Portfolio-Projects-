@@ -47,11 +47,9 @@ Welcome to the PY-HousingML project! This project is inspired by the book "Hands
    git clone https://github.com/your_username/PY-HousingML.git
 Navigate to the project directory:
 
-Copy code
 cd PY-HousingML
 Run the housing_ml.py script:
 
-Copy code
 python housing_ml.py
 Dependencies
 Python 3.x
