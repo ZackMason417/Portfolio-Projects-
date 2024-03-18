@@ -47,33 +47,13 @@ This repository contains a collection of Python scripts for fetching, analyzing,
 - Train-Test Split using custom functions.
 - Implementation and evaluation of machine learning regression models.
 
-## How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your_username/PY-HousingML.git
-Navigate to the project directory:
-
-bash
-cd PY-HousingML
-Install Dependencies
-
-bash
-pip install -r requirements.txt
-Run the Scripts
-
-Run the housing_ml.py script to execute the project:
-bash
-python housing_ml.py
-View Results
-
-Check the terminal for model predictions and evaluation metrics.
 Project Outcome
 Successful fetching and loading of the housing dataset.
 Clear understanding of the dataset's structure and attributes.
 Creation of training and testing sets for model development.
 Implementation and evaluation of machine learning models.
 Model predictions and evaluation metrics displayed in the terminal.
+
 Dependencies
 Python 3.x
 NumPy
