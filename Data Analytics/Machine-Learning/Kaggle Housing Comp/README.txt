@@ -22,20 +22,6 @@ Kaggle machine learning project focused on predicting housing prices. The projec
    - Makes predictions on the test data using the trained model.
    - Saves the predictions to a CSV file for submission.
 
-## Usage
-
-1. Clone the repository:
-git clone https://github.com/your_username/Kaggle-Housing-ML.git
-
-Navigate to the project directory:
-cd Kaggle-Housing-ML
-
-
-2. Run the Jupyter notebook:
-jupyter notebook
-
-Open and run the `Kaggle_Housing_Prices.ipynb` notebook to see the project code and results.
-
 ## Dependencies
 - Python 3.x
 - pandas
