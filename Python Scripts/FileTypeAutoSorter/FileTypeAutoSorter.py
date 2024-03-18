@@ -16,30 +16,29 @@ folder_names = [
     "Photos"
 ]
 
-# Iterate through each folder name
+# Create folders if they don't exist
 for folder_name in folder_names:
-    # Create the folder if it doesn't exist
-    if not os.path.exists(path + folder_name):
-        os.makedirs(path + folder_name)
+    if not os.path.exists(os.path.join(path, folder_name)):
+        os.makedirs(os.path.join(path, folder_name))
 
 # Get the list of files in the directory
 file_names = os.listdir(path)
 
-# Iterate through each file and move to appropriate folder
+# Move files to appropriate folders based on extension
 for file in file_names:
     if file.endswith(".csv"):
-        shutil.move(path + file, path + "CSV Files/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "CSV Files", file))
     elif file.endswith(".txt"):
-        shutil.move(path + file, path + "Text Files/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Text Files", file))
     elif file.endswith(".exe"):
-        shutil.move(path + file, path + "Applications/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Applications", file))
     elif file.endswith(".zip"):
-        shutil.move(path + file, path + "Zip Files/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Zip Files", file))
     elif file.endswith(".pdf"):
-        shutil.move(path + file, path + "PDF Files/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "PDF Files", file))
     elif file.endswith(".msi"):
-        shutil.move(path + file, path + "Installers/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Installers", file))
     elif file.endswith(".xls") or file.endswith(".xlsx"):
-        shutil.move(path + file, path + "Excel Files/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Excel Files", file))
     elif file.endswith(".jpg") or file.endswith(".png"):
-        shutil.move(path + file, path + "Photos/" + file)
+        shutil.move(os.path.join(path, file), os.path.join(path, "Photos", file))
