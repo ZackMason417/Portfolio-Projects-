@@ -27,17 +27,30 @@ Example
 Suppose you have files like data.csv, report.pdf, image.jpg, app.exe, etc., in the specified directory. After running the script, the files will be sorted into their respective folders:
 
 AutoSort/
+
 ├── CSV Files/
+
 │   └── data.csv
+
 ├── Text Files/
+
 ├── Excel Files/
+
 ├── PDF Files/
+
 │   └── report.pdf
+
 ├── Zip Files/
+
 ├── Applications/
+
 │   └── app.exe
+
 ├── Installers/
+
 ├── Photos/
+
 │   └── image.jpg
+
 Credits
 Author: Zack Mason
