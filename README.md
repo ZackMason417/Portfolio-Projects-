@@ -6,7 +6,6 @@ I'm Zack Mason, a tech enthusiast with a passion for exploring diverse domains w
 
 Contact Information
 - Email: zackmason417@gmail.com
-- LinkedIn: [Zack Mason](https://www.linkedin.com/in/zack-mason-8a901828b/)
 - Website: https://zackmason417.github.io/
 
 Table of Contents
